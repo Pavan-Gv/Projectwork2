@@ -26,12 +26,14 @@ The AI-powered self-balancing bot leverages advanced machine learning algorithms
 
 ## System Architecture
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![image-removebg-preview](https://github.com/user-attachments/assets/ea8019e5-25f3-43a6-a34c-35008a1ddee7)
+
 
 ### Outputs:
-![1](https://github.com/user-attachments/assets/c33b707a-8519-4101-9f9e-6a1ec1f97dfb)
 
 ![doorDetection](https://github.com/user-attachments/assets/61d617d8-57d1-474c-842f-b786147f4c6b)![2](https://github.com/user-attachments/assets/19d0e9f5-df77-4f68-9850-0e5c7947cb51)
+
+![1](https://github.com/user-attachments/assets/c33b707a-8519-4101-9f9e-6a1ec1f97dfb)
 
 
 
