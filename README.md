@@ -39,8 +39,6 @@ The AI-powered self-balancing bot leverages advanced machine learning algorithms
 
 ## Results and Impact
 
-<b>96.7% (Note: These metrics can be customized based on your actual performance evaluations.)</b>
-
 The AI-powered self-balancing bot enhances emergency response capabilities by delivering critical supplies to hard-to-reach areas, reducing risks for human responders, and improving the efficiency and effectiveness of relief efforts. This project advances the field of autonomous robotics and contributes to the broader application of AI in real-world crisis management.
 ## Articles published / References
 
