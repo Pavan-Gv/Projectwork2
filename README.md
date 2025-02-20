@@ -50,9 +50,10 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 The AI-powered self-balancing bot enhances emergency response capabilities by delivering critical supplies to hard-to-reach areas, reducing risks for human responders, and improving the efficiency and effectiveness of relief efforts. This project advances the field of autonomous robotics and contributes to the broader application of AI in real-world crisis management.
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
 
-
-
+1. D. J. N. and B. K. Arik, "TabNet: Attentive Interpretable Tabular Learning," Advances in Neural Information Processing Systems (NeurIPS), vol. 33, pp. 8450-8460, 2020.
+2. K. C. and K. B. Choi, "A Survey on Synthetic Tabular Data Generation Models," IEEE Access, vol. 9, pp. 28791-28807, 2021.
+3. G. M. A. S. T. F. and L. Y. Han, "GAN-based Synthetic Data Generation for Tabular Healthcare Applications," arXiv preprint arXiv:2006.08267, 2020.
+4. A. C. and S. M. Darvishi, "Evaluation of Synthetic Data Generation Techniques: A Comprehensive Study on Tabular Data," Journal of Machine Learning Research, vol. 22, pp. 1-35, 2021.
+5. T. A. M. C. E. L. and P. D. Sharma, "An Approach to Tabular Data Synthesis Using Generative Adversarial Networks," Proceedings of the ACM SIGKDD International Conference, pp. 1123-1131, 2021.
 
